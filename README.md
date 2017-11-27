@@ -32,7 +32,7 @@
   11. 模板模式（Template Pattern）
   12. 访问者模式（Visitor Pattern）
 ### *四. J2EE 模式*
-  1. MVC 模式（MVC Pattern）
+  1. MVC 模式（MVC Pattern）
   2. 业务代表模式（Business Delegate Pattern）
   3. 组合实体模式（Composite Entity Pattern）
   4. 数据访问对象模式（Data Access Object Pattern）
